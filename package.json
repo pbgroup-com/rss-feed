@@ -1,0 +1,27 @@
+{
+  "name": "localhost.rss-feed.slim.site",
+  "version": "1.0.0",
+  "description": "RSS Feed reader app, featuring user account",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbgroup-com/rss-feed.git"
+  },
+  "keywords": [
+    "RSS",
+    "feed",
+    "reader"
+  ],
+  "author": "pbrilius@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbgroup-com/rss-feed/issues"
+  },
+  "homepage": "https://github.com/pbgroup-com/rss-feed#readme"
+}
