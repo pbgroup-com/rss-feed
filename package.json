@@ -23,5 +23,16 @@
   "bugs": {
     "url": "https://github.com/pbgroup-com/rss-feed/issues"
   },
-  "homepage": "https://github.com/pbgroup-com/rss-feed#readme"
+  "homepage": "https://github.com/pbgroup-com/rss-feed#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "jslint": "^0.12.1",
+    "webpack": "^4.41.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
+    "svelte": "^3.12.1"
+  }
 }
